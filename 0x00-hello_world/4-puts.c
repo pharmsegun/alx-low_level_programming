@@ -1,4 +1,4 @@
-#!/bin/bash
+#include <stdio.h>
 /**
  * main - Print programming line with puts function
  * Return: 0 (Success)
