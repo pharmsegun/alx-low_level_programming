@@ -13,10 +13,10 @@ int main(void)
 
 	while (lowercase <= 'z')
 	{
-		put char (lowercase);
+		putchar(lowercase);
 		lowercase += 1;
 	}
-	put char ('\n');
+	putchar ('\n');
 	return (0);
 }
 
