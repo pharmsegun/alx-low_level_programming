@@ -8,14 +8,14 @@
 int main(void)
 {
 	int lowercase = 'a';
-	int uppercase = 'A';
+	int Uppercase = 'A';
 
 	while (lowercase <= 'z')
 	{
 		putchar (lowercase);
 		lowercase += 1;
 	}
-	while uppercase = 'A'
+	while Uppercase = 'A'
 	{
 		putchar (uppercase);
 		uppercase += 1;
